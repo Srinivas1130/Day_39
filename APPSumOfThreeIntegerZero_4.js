@@ -1,0 +1,6 @@
+let a = 1;
+let b = -3;
+let c = 2;
+
+let sumOfThreeInteger = a+b+c;
+console.log(sumOfThreeInteger);
